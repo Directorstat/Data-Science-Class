@@ -1,2 +1,2 @@
-# Data-Science-Class
-First Project
+# Data-Science
+Projects
